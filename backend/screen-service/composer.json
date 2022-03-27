@@ -1,0 +1,5 @@
+{
+  "require" : {
+    "prodigyview/prodigyview": "^0.9.8"
+  }
+}
